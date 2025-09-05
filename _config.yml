@@ -29,10 +29,30 @@ url: "https://www.coe.io" # the base hostname & protocol for your site, e.g. htt
 twitter_username: jekyllrb
 github_username:  crimsongreen
 
+# Social media defaults
+author: Hi # Your name for social media
+social:
+  name: Hi
+  links:
+    - https://twitter.com/jekyllrb
+    - https://github.com/crimsongreen
+
+# SEO and social media
+logo: /assets/images/logo.png
+social_image: /assets/images/default-social.png
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+# Enable excerpts for better social sharing
+show_excerpts: true
+
+# Minima configuration
+minima:
+  skin: auto
 
 # Exclude from processing.
 # The following items will not be processed, by default.

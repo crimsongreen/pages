@@ -3,6 +3,9 @@ layout: post
 title:  "Future thinking..."
 date:   2025-09-05 23:28:53 +0100
 categories: life
+excerpt: "Having just had a kid, I find myself constantly thinking about the future. The jobs, technologies, and problems facing the world. This is coupled with the general feeling that we have moved away from solving real problems..."
+image: /assets/images/future-thinking-social.png
+tags: [parenting, future, technology, housing, leadership]
 ---
 Having just had a kid, I find myself constantly thinking about the future. The jobs, technologies, and problems facing the world.
 
